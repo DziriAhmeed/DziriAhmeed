@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋 , I'm Dziri Ahmed
 
+👨‍💻 Software Engineering Student studing at [ISSATSo](https://issatso.rnu.tn/) University , Tunisia </br>
+❤️ I love writing TypeScript and building fun experiment </br>
+🎨 I'm also a UX/UI Designer 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DziriAhmeed)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DziriAhmeed/DziriAhmeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
